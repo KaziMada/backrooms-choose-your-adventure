@@ -1,1 +1,0 @@
-{"rule":"BE_VBP_IN","sentence":"^\\QOff in the distance, the lazy river trails on and on, vanishing out of view into what almost seems to be fog.\\E$"}
