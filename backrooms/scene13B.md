@@ -1,4 +1,4 @@
-# 🧭 Scene 13B: You turn to look at it.
+# 👁 Scene 13B: You turn to look at it.
 
 You decide to turn around to look at it. 
 

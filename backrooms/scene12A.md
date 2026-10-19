@@ -1,4 +1,4 @@
-# 🧭 Scene 12A: Explore the Store
+# 🏪 Scene 12A: Explore the Store
 
 You decide to explore the 24/7 store. 
 
@@ -19,8 +19,8 @@ When the lights flash back on with a mechanical hum, the store is empty. There a
 
 As you turn to leave, you hear something shuffling further down the hall.
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [I move to investigate the sound.]()
+- 🔊 [I move to investigate the sound.](./crossroads3.md)
 
-- 😱 [I decide to look for an exit.]()
+- 🟥 [I decide to look for an exit.](./scene10A.md)

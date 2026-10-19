@@ -1,4 +1,4 @@
-# 🧭 Scene 7C: The Basement
+# 📺 Scene 7C: The Basement
 
 You decide to go downstairs. 
 
@@ -10,8 +10,8 @@ You recall this room being much messier when you were here last. Drink bottles, 
 
 Towards the end of the room, you notice a door that was *absolutely* not there in your childhood. Through the cracked opening you see rows and racks of sprawling books. It seems to be a nearly endless library draped in muted colours. Hushed voices seem to seep through the doorway, but none of the words can be made out fully. 
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [Go back upstairs.]()
+- 🛋 [Go back upstairs.](./crossroads1.md)
 
-- 😱 [Explore the library.]()
+- 📚 [Explore the library.](./scene8C.md)

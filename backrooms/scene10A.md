@@ -1,4 +1,4 @@
-# 🧭 Scene 10A: The exit? 
+# 🟥 Scene 10A: The exit? 
 
 You decide to look for an exit.
 
@@ -16,8 +16,8 @@ You pick up speed and without realizing, you're running towards it. Your hand re
 
 The convenience of finding this door *exactly* when you felt like giving up... it makes it feel almost *too* good to be true. 
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [I go through the door.]()
+- 🚪 [I go through the door.](./scene13B.md)
 
-- 😱 [I ignore the door... that feels like a trap.]()
+- 🙈 [I ignore the door... that feels like a trap.](./crossroads3.md)

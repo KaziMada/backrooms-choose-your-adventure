@@ -1,4 +1,4 @@
-# 🧭 Scene 7B: It feels like you're being watched...
+# 👁 Scene 7B: It feels like you're being watched...
 
 You can't shake the feeling that something is *watching you...*
 
@@ -12,6 +12,8 @@ nothing. Nothing apart from a slow and steady drip of water from a sagging ceili
 
 A chill climbs up your spine, cold fear gripping your limbs. You can't help but feel like you're the prey here. 
 
-- 😱 [I'm sure it's my imagination. Let's check out the library.]()
+### *what do you do?*
 
-- 😱 [Panic.]()
+- 📚 [I'm sure it's my imagination. Let's check out the library.](./scene8C.md)
+
+- 😱 [Panic.](./scene8A.md)

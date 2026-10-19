@@ -1,4 +1,4 @@
-# 🧭 Crossroads 1: The Living room.
+# 🛋 Crossroads 1: The Living room.
 
 As you explore, you move into a living room.
 
@@ -19,10 +19,10 @@ You can move down the hallway, towards a distant shuffling sound. It almost look
 Or you can move towards the sound of distant outdated pop music, wherever it echoes from. 
 
 
-*What do you want to do?*
+### *What do you want to do?*
 
-- 😱 [Look out the window]()
+- 👁 [Look out the window](./scene9A.md)
 
-- 😱 [Follow the shuffling sound & pop music in the hallway.]()
+- 🔊 [Follow the shuffling sound & pop music in the hallway.](./scene9B.md)
 
-- 😱 [Go through the open door to explore the books.]()
+- 📚 [Go through the open door to explore the books.](./scene8C.md)

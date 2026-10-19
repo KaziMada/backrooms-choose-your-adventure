@@ -1,4 +1,4 @@
-# 🧭 Crossroads 3: The Hunted
+# 🐇 Crossroads 3: The Hunted
 
 You begin to panic. It's clear you're not alone, and whatever is moving around making all that noise is *clearly* not human. 
 
@@ -11,6 +11,6 @@ You try to fight down the rising panic in your chest.
 
 *What do you want to do?*
 
-- 😱 [Try to catch a glimpse of whatever's making all that noise.]()
+- 👁 [Try to catch a glimpse of whatever's making all that noise.](./scene11B.md)
 
-- 😱 [Run away from it, put distance between myself and It.]()
+- 🏃‍♂️ [Run away from it, put distance between myself and It.](./scene11A.md)

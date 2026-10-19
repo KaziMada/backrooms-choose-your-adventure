@@ -1,4 +1,4 @@
-# 🧭 ENDING 3/3: You fall asleep in the movie theatre.
+# 💤 ENDING 3/3: You fall asleep in the Movie Theatre.
 
 You try to keep your eyes open, desperate to see the end of the movie. 
 
@@ -12,5 +12,5 @@ It was all just a dream?
 
 *How strange. I wonder if I'll dream about that place again?*
 
-- 😱 [Try Again?]()
+- 🌟 [Try Again?]()
 

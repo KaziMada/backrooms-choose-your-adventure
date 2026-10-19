@@ -1,4 +1,4 @@
-# 🧭 Scene 12B: The Movie Theatre.
+# 📽 Scene 12B: The Movie Theatre.
 
 You decide to explore the movie theatre. 
 
@@ -12,4 +12,4 @@ You make your way into the theatre, finding a nook in the center row. There are 
 
 With a heavy sigh of relief, you settle down to watch the movie and make yourself comfortable. 
 
-- 😱 [I'll just watch this movie, then I'll keep trying to find my way home...]()
+- 🍿 [I'll just watch this movie, then I'll keep trying to find my way home...](./ending3.md)

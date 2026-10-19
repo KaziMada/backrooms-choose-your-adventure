@@ -1,4 +1,4 @@
-# 🧭 Scene 6C: The Lazy River
+# 🌫 Scene 6C: The Lazy River
 
 You decide to check out the lazy river. 
 
@@ -12,5 +12,5 @@ They're all too long, too many limbs, too many eyes, too many teeth. Just... *wr
 
 You *swear* you see one twist it's head to follow you as you pass. 
 
-- 😱 [Alright... It's time to get out.]()
+- 😨 [Alright... It's time to get out.](./crossroads1.md)
 

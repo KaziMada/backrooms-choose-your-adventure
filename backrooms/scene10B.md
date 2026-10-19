@@ -14,8 +14,8 @@ With a little effort, you're able to decipher where you are. It seems like just 
 
 > 💭 That's? A strange thing for a mall store to be open 24/7... what a weird place.  
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [I want to explore the store.]()
+- 🏪 [I want to explore the store.](./scene12A.md)
 
-- 😱 [I want to explore the movie theatre.]()
+- 📽 [I want to explore the movie theatre.](./scene12B.md)

@@ -1,13 +1,11 @@
-# 📓 Scene 2A: Is the map working?
+# 📌 Scene 2A: Navigation without a map.
 
-You walk and walk and *walk*, your feet dragging as you move. Your map sprawls across multiple pages of your notebook. It's making less and less sense the more you add to it. 
+You walk and walk and *walk*, your feet dragging as you move. Navigating using landmarks isn't any easier and you can't figure out why. 
 
-You look up to the dingy hallways around you, and back at your map. Are you even sure you know where you are on your map? Surely you do...
+You look up to the dingy hallways around you, and back at the direction you came from. *Is* that the direction you came from?
 
-Maybe it's time to try navigating using a different method?
+### *What do you do?*
 
-*What do you do?*
+- 📓 [I know where I am. The map *has* to work eventually.](./scene3A.md)
 
-- 💫 [I know where I am. the map *has* to work eventually.]()
-
-- 🚪 [I'll try to use landmarks instead of the map.]()
+- 🌎 [Give up on figuring out where you are and just explore.](./scene3B.md)

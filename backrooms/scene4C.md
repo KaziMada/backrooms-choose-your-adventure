@@ -1,4 +1,4 @@
-# 🧭 Scene 4C: Your childhood home.
+# 🏡 Scene 4C: Your Childhood Home.
 
 You decide to step out into the cool night air, following the road that leads to the lit home. 
 
@@ -18,8 +18,8 @@ Despite the comfort of nostalgia, you can't shake the feeling that it's somehow 
 
 As you look around, you take a moment to decide which part of the house to visit first. 
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [I decide to go into the kitchen.]()
+- 🍴 [I decide to go into the kitchen.](./scene5A.md)
 
-- 🏡 [I decide to go into the bedroom.]()
+- 🛌 [I decide to go into the bedroom.](./scene5B.md)

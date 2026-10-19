@@ -1,4 +1,4 @@
-# 🧭 Scene 6A: The slide!
+# ➰ Scene 6A: The Slide!
 
 You decide to use the slide.
 
@@ -18,4 +18,4 @@ You see a light appear ahead of you and assume that the slide must be ending, fi
 Your heart sinks as you realize it was just a pinhole in the plastic, letting in light from outside. You're dropped back into darkness, and you can feel the fear creep in as the slide continues to take you onward. 
 
 
-- 💭 [Is this slide ever going to end?]()
+- 💭 [Is this slide ever going to end?](./scene7C.md)

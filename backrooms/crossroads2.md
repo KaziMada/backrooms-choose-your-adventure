@@ -1,4 +1,4 @@
-# 🧭 Crossroads 2: The mall.
+# 🏬 Crossroads 2: The mall.
 
 You squint your eyes, blinking in confusion. How exactly did you get here? How does that make sense?
 
@@ -10,6 +10,6 @@ Pop music plays over speakers you can't see. You don't know the song by name, bu
 
 *What do you want to do?*
 
-- 😱 [Look for an exit door.]()
+- 🟥 [Look for an exit door.](./scene10A.md)
 
-- 😱 [Explore the mall.]()
+- 🏬 [Explore the mall.](./scene10B.md)

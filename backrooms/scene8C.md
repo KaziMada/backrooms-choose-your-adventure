@@ -1,4 +1,4 @@
-# 🧭 Scene 8A: Explore the Library. 
+# 📚 Scene 8C: Explore the Library. 
 
 You decide to explore the library.
 
@@ -14,8 +14,8 @@ You try to shrug off the vague feelings of amnesia that hang heavy here. How iro
 
 As your eyes drift from book to book, you begin to realize you can hear something else moving around -- back towards the offices.
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [I should check out that sound.]()
+- 🔊 [I should check out that sound.](./scene8B.md)
 
-- 😱 [I should ignore the sound.]()
+- 🙉 [I should ignore the sound... Maybe go to the living room instead.](./crossroads1.md)

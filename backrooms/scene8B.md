@@ -1,4 +1,4 @@
-# 🧭 Scene 8B: You *hear* something.
+# 🔊 Scene 8B: You *hear* something.
 
 You begin to hear something moving around. 
 
@@ -22,4 +22,4 @@ You realize it's dragging itself through the hallway. Dragging itself closer to 
 
 Your brain and body finally sync up. You do the only logical thing.
 
-- 😱 [Run.]()
+- 😱 [Run.](./crossroads3.md)

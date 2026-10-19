@@ -1,4 +1,4 @@
-# 🧭 Scene 8A: Freaking out.
+# 😭 Scene 8A: Freaking out.
 
 You panic. Fully, truly break down and panic.
 
@@ -19,8 +19,8 @@ Your voice echoes softly, bouncing down the endless corridors. No sound returns 
 
 You expected screaming to make you feel a *little* better, but the silence in response is almost worse. There's *no one* here but you, and if there *is* something else out there, it is *deathly* quiet.
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [Sit down and cry.]()
+- 😭 [Sit down and cry.](./ending1.md)
 
-- 😱 [Panic and run blindly through the halls.]()
+- 🏃‍♂️ [Panic and run blindly through the halls.](./crossroads3.md)

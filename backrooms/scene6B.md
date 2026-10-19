@@ -1,4 +1,4 @@
-# 🧭 Scene 6B: The Wave pool
+# 🌊 Scene 6B: The Wave Pool
 
 You decide to check out the wave pool. 
 
@@ -10,8 +10,8 @@ The cold mechanical action controlling something that's usually so natural unset
 
 You notice that it's darker back here than the rest of the water park. There's less light. It almost makes it feel stormy. It feels fitting for something replicating one of nature's violent storms. 
  
-*What do you do?*
+### *What do you do?*
 
-- 😱 [I don't think I want to go in there...]()
+- 😱 [I don't think I want to go in there... I'll walk around the edge.](./crossroads1.md)
 
-- 🏡 [I jump in! I want to swim under the waves!]()
+- 🏡 [I jump in! I want to swim under the waves!](./crossroads2.md)

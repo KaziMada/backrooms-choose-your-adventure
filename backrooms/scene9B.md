@@ -1,4 +1,4 @@
-# 🧭 Scene 9B: The Sound is moving.
+# 🔊 Scene 9B: The Sound is moving...
 
 You try to follow the sound.
 
@@ -14,8 +14,8 @@ You pause, taking note of your surroundings before making a decision. One end of
 
 The other end of the hallway has a door that sits barely open. You can't see in clearly, but you can hear outdated pop music playing softly. It's not a song you recognize, but the tune is simple and repetitive enough that you're sure you've heard it *somewhere* before. 
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [I go back to the living room.]()
+- 🛋 [I go back to the living room.](./crossroads1.md)
 
-- 😱 [I move towards the new door.]()
+- 🚪 [I move towards the new door.](./crossroads2.md)

@@ -1,4 +1,4 @@
-# 🧭 Scene 7A: The Landmarks are Moving
+# 📌 Scene 7A: The Landmarks are moving...
 
 You decide to try to use landmarks to navigate. 
 
@@ -14,6 +14,8 @@ You let out a frustrated sigh.
 
 You take a deep breath and grab the straps of your backpack to steady yourself. 
 
-- 😱 [I am actually freaking out right now.]()
+### *What do you want to do?*
 
-- 😱 [Take a deep breath, figure out what my options are.]()
+- 😱 [I am actually freaking out right now.](./scene8A.md)
+
+- 🌬 [Take a deep breath, figure out what my options are.](./scene8B.md)

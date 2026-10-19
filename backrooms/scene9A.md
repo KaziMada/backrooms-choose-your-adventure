@@ -1,4 +1,4 @@
-# 🧭 Scene 9A: The window. 
+# 🌃 Scene 9A: The Window. 
 
 You decide to look out the window.
 
@@ -13,8 +13,8 @@ It almost seems to crawl, moving around on four limbs like a dog. Its limbs don'
 
 You're not sure what's out there, and you pause for a moment, trying to decide what to do. You could always try to take a photo with your phone? Maybe being able to see it in clearer detail would help you chose your next steps. 
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [Try to take a photo with your phone]()
+- 📸 [Try to take a photo with your phone](./crossroads3.md)
 
-- 😱 [I'm going to ignore that...]()
+- 🙈 [I'm going to ignore that...](./scene13A.md)

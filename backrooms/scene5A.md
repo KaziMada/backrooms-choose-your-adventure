@@ -1,4 +1,4 @@
-# 🧭 Scene 5A: The Kitchen
+# 🍴 Scene 5A: The Kitchen
 
 You decide to enter the kitchen.
 
@@ -16,10 +16,10 @@ But... were those items ever *actually* there? Or are you misremembering things?
 
 You shake your head to clear the overwhelming dread that begins to settle in your chest. Maybe a different part of the house will have answers. 
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [I want to go down to the basement]()
+- 📺 [I want to go down to the basement](./scene7C.md)
 
-- 🏡 [I want to go into the living room]()
+- 🛋 [I want to go into the living room](./crossroads1.md)
 
-- 🌊 [I want to go back to the entrance of the house]()
+- 🏡 [I want to go back to the entrance of the house](./scene4C.md)

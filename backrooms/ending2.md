@@ -1,4 +1,4 @@
-# 🧭 ENDING 2/3: You were caught.
+# ☠ ENDING 2/3: You were caught.
 
 You try so hard to will yourself to move, but it's just not enough. 
 
@@ -19,5 +19,5 @@ you can hope it was.
 
 *I guess you'll find out when you go back to sleep.*
 
-- 😱 [Try Again?]()
+- 🌟 [Try Again?](./_start-here.md)
 

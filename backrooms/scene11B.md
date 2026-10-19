@@ -1,4 +1,4 @@
-# 🧭 Scene 11B: Try to see what the creature is.
+# 👁 Scene 11B: Try to see what the creature is.
 
 You try to get a glimpse of the creature barreling through the hallways. 
 
@@ -14,8 +14,8 @@ You have to move, you *know* you have to move. But you're frozen. The fear paral
 
 > 💭 Come on... ***move!***
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [I will myself to move.]()
+- 🏃‍♂️ [I will myself to move.](./scene11A.md)
 
-- 😱 [I'm too scared, I can't do it.]()
+- 😱 [I'm too scared, I can't do it.](./ending2.md)

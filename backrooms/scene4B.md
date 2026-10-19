@@ -10,8 +10,8 @@ You sit in the quiet and process your thoughts, taking a few deep breaths as if 
 
 > 💭 Well... I'm not going to find my way out by sitting here and freaking out about it. 
 
-*What do you do?*
+### *What do you do?*
 
-- 🔁 [Reassess the rooms at the end of the hall - where do they lead?]()
+- 🔁 [Reassess the rooms at the end of the hall - where do they lead?](./scene3B.md)
 
-- 🔙 [Backtrack, to the office, try to make a map.]()
+- 🔙 [Backtrack, to the office, try to make a map.](./scene4A.md)

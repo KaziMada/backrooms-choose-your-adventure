@@ -1,4 +1,4 @@
-# 🧭 Scene 11A: Run.
+# 🏃‍♂️ Scene 11A: Run.
 
 You sprint in the opposite direction as fast as your legs will carry you. 
 
@@ -14,8 +14,8 @@ Still you run. You don't stop, you don't look back. You take every twist and tur
 
 Once you're sure that there is absolutely nothing behind you -- no panting or snarling. The only sound you hear is your own heartbeat thrumming in your ears and your breath shallow and raspy in your chest. You're almost positive you're nearly in the exact same spot you were when you first arrived. 
 
-*What do you do?*
+### *What do you do?*
 
-- 😱 [Sit down, cry about what just happened.]()
+- 😭 [Sit down, cry about what just happened.](./ending1.md)
 
-- 😱 [Backtrack and try again]()
+- 🔁 [Backtrack and try again](./_start-here.md)

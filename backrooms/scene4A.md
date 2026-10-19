@@ -10,10 +10,10 @@ You sigh and shiver involuntarily. This place gives you the creeps. There's a se
 
 It almost feels like there's something else here with you, despite the fact that you haven't seen another soul. 
 
-*What do you do?*
+### *What do you do?*
 
-- 🚪 [I look around and try to use landmarks instead of my map.]()
+- 📌 [I look around and try to use landmarks instead of my map.](./scene7A.md)
 
-- ↘ [I give up on trying to make sense of it and explore -- I go downstairs.]()
+- ↘ [I give up on trying to make sense of it and explore -- I go downstairs.](./scene7C.md)
 
-- 👁 [I can't shake the feeling that something is watching me.]()
+- 👁 [I can't shake the feeling that something is watching me.](./scene7B.md)
