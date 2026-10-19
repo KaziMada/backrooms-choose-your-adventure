@@ -12,7 +12,7 @@ You're about to give up hope, but one more turn down a nearly identical hallway 
 The faint glow of an exit sign, hovering above a heavy metal door.
 You pick up speed and without realizing, you're running towards it. Your hand reaches out to push the door open, but you hesitate for a moment. 
 
-> 💭 What if... what if this is a trap?
+> 💭 What if... what if this is a trap??
 
 The convenience of finding this door *exactly* when you felt like giving up... it makes it feel almost *too* good to be true. 
 

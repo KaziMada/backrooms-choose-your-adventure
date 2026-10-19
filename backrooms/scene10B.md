@@ -12,7 +12,7 @@ Most of the map seems like nonsensical gibberish. Things overlap impossibly, you
 
 With a little effort, you're able to decipher where you are. It seems like just down the hall from you there is a movie theatre, and a store that claims to be "open 24/7". 
 
-> 💭 That's strange thing for a mall store to be open 24/7... what a weird place.  
+> 💭 That's? A strange thing for a mall store to be open 24/7... what a weird place.  
 
 *What do you do?*
 
